@@ -23,3 +23,21 @@ I am a junior front-end developer with no commercial work experience, but with a
 * JavaScript(Fundamentals)
 * Git/GitHub
 * Adobe Photoshop, Figma
+
+# Code Example
+
+```
+function reverseWords(str) {
+
+  let wordsToArr = str.split(' ');
+
+  let reverse = wordsToArr.map((word) => word.split('').reverse().join(''));
+
+  return reverse.join(' ');
+}
+```
+# Examples of work: 
+Below you can see my latest works
+* Landing page: [Furniture](https://bezhenar-sergiy.github.io/furniture/)
+* Landing page: [Interno](https://bezhenar-sergiy.github.io/interno/)
+* Multipage Website: [Createx](https://bezhenar-sergiy.github.io/createx/)
