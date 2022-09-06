@@ -41,3 +41,16 @@ Below you can see my latest works
 * Landing page: [Furniture](https://bezhenar-sergiy.github.io/furniture/)
 * Landing page: [Interno](https://bezhenar-sergiy.github.io/interno/)
 * Multipage Website: [Createx](https://bezhenar-sergiy.github.io/createx/)
+
+# Education
+
+* **Kherson Marine Academy**
+    * Navigator
+* JavaScript Manual on learnjavascript.ru (in progress)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in     progress)    
+
+# Languages
+
+* **Ukranian** - Native speaker.
+* **Russian** - Native speaker.
+* **English** - Intermediate/Upper-intermediate
